@@ -1,7 +1,7 @@
 import "./styles.css";
-import Header from "./header";
-import Footer from "./footer";
-import Note from "./note";
+import Header from "../components/header";
+import Footer from "../components/footer";
+import Note from "../components/note";
 
 export default function App() {
   return (
